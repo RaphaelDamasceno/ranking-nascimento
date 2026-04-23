@@ -345,12 +345,12 @@ export default function App() {
 
       <audio 
         ref={audioRef} 
-        src="https://drive.google.com/uc?export=download&id=130eUkabUib5NBTSGNeWtnuGiEFzIJtWv" 
+        src="https://www.dropbox.com/scl/fi/1vh0fcuynmcwp4cr7eyek/meldix-success-340660.mp3?rlkey=rnpxr66598q8960rhgbbra03m&st=qyyt34l2&raw=1" 
         preload="auto"
       />
       <audio 
         ref={updateAudioRef} 
-        src="https://drive.google.com/uc?export=download&id=130eUkabUib5NBTSGNeWtnuGiEFzIJtWv" 
+        src="https://www.dropbox.com/scl/fi/1vh0fcuynmcwp4cr7eyek/meldix-success-340660.mp3?rlkey=rnpxr66598q8960rhgbbra03m&st=qyyt34l2&raw=1"
         preload="auto"
       />
     </motion.div>
