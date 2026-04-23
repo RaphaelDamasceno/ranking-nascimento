@@ -345,12 +345,12 @@ export default function App() {
 
       <audio 
         ref={audioRef} 
-        src="https://assets.mixkit.co/active_storage/sfx/2897/2897-preview.mp3" 
+        src="https://drive.google.com/uc?export=download&id=130eUkabUib5NBTSGNeWtnuGiEFzIJtWv" 
         preload="auto"
       />
       <audio 
         ref={updateAudioRef} 
-        src="https://assets.mixkit.co/active_storage/sfx/2568/2568-preview.mp3" 
+        src="https://drive.google.com/uc?export=download&id=130eUkabUib5NBTSGNeWtnuGiEFzIJtWv" 
         preload="auto"
       />
     </motion.div>
