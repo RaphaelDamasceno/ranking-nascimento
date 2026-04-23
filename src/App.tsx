@@ -350,7 +350,7 @@ export default function App() {
       />
       <audio 
         ref={updateAudioRef} 
-        src="https://www.dropbox.com/scl/fi/1vh0fcuynmcwp4cr7eyek/meldix-success-340660.mp3?rlkey=rnpxr66598q8960rhgbbra03m&st=qyyt34l2&raw=1"
+        src=""
         preload="auto"
       />
     </motion.div>
